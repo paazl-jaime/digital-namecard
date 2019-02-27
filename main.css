@@ -182,6 +182,7 @@ img.profile-pic {
 	font-family: 'Quicksand', sans-serif;
 	color: white;
 	font-weight: 700;
+  border-radius: 20px;
 }
 
 @media screen and (max-width: 600px) {
