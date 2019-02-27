@@ -138,27 +138,31 @@ img.profile-pic {
 	background-color: #F2F2F2;
 }
 
+.bg-color-blue {
+	background-color: #282364;
+}
+
 .bg-color-white {
 	background-color: white;
 }
 
 .text-name {
-    font-family: 'Lato', sans-serif;
-    font-weight: 400;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
     color: #333333;
     font-size: 20px;
 }
 
 .text-title-company {
-    font-family: 'Lato', sans-serif;
-    font-weight: 200;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
     color: #333333;
     font-size: 12px;
 }
 
 .text-detail {
-    font-family: 'Lato', sans-serif;
-    font-weight: 300;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
     color: #575757;
     font-size: 12px;
 }
@@ -168,16 +172,16 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #48a929;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
 	text-align: center;
 	vertical-align: middle;
 	line-height: 48px;
-	font-family: 'Muli', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	color: white;
-	font-weight: 300;
+	font-weight: 700;
 }
 
 @media screen and (max-width: 600px) {
