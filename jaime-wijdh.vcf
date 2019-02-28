@@ -7,6 +7,7 @@ ORG:Paazl;
 TITLE:Business Analyst
 EMAIL;type=INTERNET;type=WORK;type=pref:jaime@paazl.com
 TEL;type=WORK;type=VOICE:+31 20 773 63 03
+TEL;type=MOBILE;type=VOICE:+31 6 1134 8528
 item1.ADR;type=WORK;type=pref:;;Jacob Bontiusplaats 9-580;;;1018LL;Amsterdam
 item1.X-ABADR:nl
 item2.URL;type=pref:www.paazl.com
